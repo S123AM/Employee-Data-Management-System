@@ -1,3 +1,7 @@
+![VS Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?logo=visualstudiocode)
+![Python](https://img.shields.io/badge/Python-3.10-yellow?logo=python)
+
+
 # Employee Management System (Python)
 
 ##  Project Description
