@@ -75,6 +75,16 @@ The project is implemented using a single class `EmployeeManager` and demonstrat
   - Clear menu and instructions  
   - Emoji indicators for success, error, and actions  
   - Automatic CSV detection in the script's folder
+## 🎯 Additional Bonus Feature
+In addition to the main project requirements, this program includes an **extra bonus feature**:
+
+- **Three Retry Attempts for Invalid Input**  
+  When the user enters incorrect information (such as an invalid email format, a non-numeric salary, or an already existing ID), the program:
+  1. Notifies the user of the error.
+  2. Allows up to **three attempts** to correct the input.
+  3. Returns to the main menu if all attempts fail.
+
+This improves **user experience** by giving users multiple chances to fix mistakes without restarting the program.
 
 ---
 
